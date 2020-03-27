@@ -12,7 +12,7 @@ import (
 
 	"github.com/gorilla/mux"
 
-	"foo.mongo-cosmosdb-test/api"
+	"github.com/abhirockzz/mongodb-go-app/api"
 )
 
 var crudAPI *api.API

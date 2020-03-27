@@ -1,4 +1,4 @@
-module foo.mongo-cosmosdb-test
+module github.com/abhirockzz/mongodb-go-app
 
 go 1.13
 

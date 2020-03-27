@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"time"
 
-	"foo.mongo-cosmosdb-test/model"
+	"github.com/abhirockzz/mongodb-go-app/model"
 	"github.com/gorilla/mux"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/primitive"
